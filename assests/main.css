@@ -1,0 +1,137 @@
+/*******************************
+general
+********************************/
+
+body {
+  font-family:'open sans';
+}
+
+#wrapper{
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+h3{
+  margin: 0 0 1em 0;
+}
+
+/*******************************
+Heading
+********************************/
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+
+#logo{
+  text-align: center;
+  margin: 0;
+
+}
+
+h1{
+  font-family: 'Changa', sans-serif;
+  margin: -5px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+h2{
+  font-family: 'Changa', sans-serif;
+  margin: 10px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+
+
+/*******************************
+footer
+********************************/
+
+
+/*******************************
+PAGE: Projects
+********************************/
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li{
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+}
+
+/*******************************
+navigation
+********************************/
+
+nav{
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+}
+
+nav ul{
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li{
+  display: inline;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px 10px;
+}
+
+/*******************************
+colors
+********************************/
+/* green header */
+header{
+  background:#1ddad4;
+}
+
+nav {
+  background: #2b949a;
+}
+
+/* style our logo */
+a h1, a h2 {
+  color: #fff;
+}
+
+/*links */
+a {
+  color: rgb(54, 200, 196);
+}
+/*selected nav links */
+nav a.selected, nav a:hover{
+  color: #325e67;
+}
+/* site color */
+body {
+  background-color: #fff;
+  color: #13358c;
+}
