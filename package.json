@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio home page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainWarlock/Portfolio.git"
+  },
+  "author": "Daniel Cadigan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainWarlock/Portfolio/issues"
+  },
+  "homepage": "https://github.com/CaptainWarlock/Portfolio#readme"
+}
